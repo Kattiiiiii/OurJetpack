@@ -25,4 +25,6 @@ while playingGame:
     color = (255,255,0)
     screen.fill(color)
     pyg.display.flip()
+    
+# hier ein kommentar von Ole
 
